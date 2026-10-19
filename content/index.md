@@ -6,10 +6,9 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Road to v0.6.0'
-  icon: '🎉'
-  to: /blog/changelog/roadto-060
-  target: \_blank
+  title: "We'll see where it goes…"
+  icon: '🌱'
+  to: /blog/articles/evolving
 actions:
   - name: Get Started
     to: /getting-started/introduction
